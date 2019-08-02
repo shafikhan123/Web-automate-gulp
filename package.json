@@ -2,8 +2,7 @@
   "name": "web-automate",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
-  "author": "",
+  "author": "Shafi",
   "license": "ISC",
   "devDependencies": {
     "bourbon": "^6.0.0",
